@@ -1,4 +1,5 @@
 # Safaris in Botswana
+---
 
  Safaris in Botswana is a website designed for tourists and individuals who want to visit safaris in Botswana to view a variety of wildlife in their natural habitat, take part in adventurous outdoor activities and discover the real Africa. Botswana is a land of sweeping spaces where wetlands thrive and wildlife abounds. Venture into two of the country’s most treasured wilderness areas to discover an astounding array of flora and fauna on a variety of excursions.
 
@@ -6,23 +7,58 @@
 
  Then experience the World Heritage-listed Okavango Delta from two different perspectives: on safari in a remote private concession and exploring the lush heart of the delta by dugout canoe and boat.
 
- 
+***
  The business goals of the website are as follows:
+ ***
  
- * 
+ * To provide a very good User Experience to keep potential visitors long enough on the site.
 
+ * To attract visitors to Botswana and provide the necessary information they can check before they can decide to visit.
 
+ * To show the astoundingly prolific wildlife, varied landscapes, share the Botswana culture and cusine with vistors.
 
+ * To offer an amazing array experiences to every visitor and hopefully visit Botswana again to explore more.
+
+ * To provide a map with "pins" where the user can click to get information on accomadation, Game reserves and resturant.
+***
+
+ Visitor's goals to the website:
+ ***
+ * To find out which part of Africa is Botswana located.
+
+ * To find a destination safari of their choice for their next holiday.
+
+* To find out places to stay, eat in their selected destination.
+
+ * to find out what type of wildlife and activities available.
  
+UX
+***
+ The ideal clients to this website is any visitor interested in one of the following:
+ ___
 
-### Visitiors to the website want to achieve the following:
+ * Wildlife and Safari
+ * Natural attractions
+ * Adventure
+ * Culture and History
+***
+Vistors to this website are searching for:
+___
 
-
-
-
+* Places to explore safaris in Botswana
+* Wildife and natural attractions to explore
+* Accomodation and resturant.
+***
 
 ### This project is the best way to help them to achieve this because:
+___
 
+* Most of the website have poor User Experience which leads to user leaving the website quickly.
+
+* The website is easy to navigate.
+
+* Provide visitors with the information they need without getting overwhelmed.
+***
 
 ## Users stories
 1. As a user I want to visit a website about safaris in Botswana so that I can explore the site and maybe visit the places.
